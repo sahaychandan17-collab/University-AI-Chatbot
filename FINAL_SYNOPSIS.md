@@ -5,8 +5,8 @@
 ## 1. Cover Page
 
 * **Project Title:** ABES Student Support AI Portal
-* **Student Name:** Akash Shukla
-* **Roll Number / Student ID:** AK0001
+* **Student Name:** Chandan Sahay
+* **Roll Number / Student ID:** CS0001
 * **Branch / Department:** Department of Computer Science and Engineering
 * **Semester & Section:** 5th Semester (3rd Year) / Section: CSE-12
 * **College Name:** ABES Engineering College, Ghaziabad
